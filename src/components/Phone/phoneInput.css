@@ -1,0 +1,12 @@
+.special-label {
+ display: none !important;
+}
+
+.input--text {
+ width: 100% !important;
+ padding: 12px 10px 13px !important;
+ padding-left: 50px !important;
+}
+.inputClass {
+ padding: 2em;
+}
